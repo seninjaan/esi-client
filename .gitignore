@@ -1,0 +1,13 @@
+# Unit Test Cache Files
+unit_tests/__pycache__
+.pytest_cache
+
+# Virtual Environment Directories / Files
+env/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# VS Code Generated Crap
+.vscode
