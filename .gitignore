@@ -1,5 +1,5 @@
 # Unit Test Cache Files
-unit_tests/__pycache__
+__pycache__
 .pytest_cache
 
 # Virtual Environment Directories / Files
